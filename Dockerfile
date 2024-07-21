@@ -74,7 +74,7 @@ COPY ./FallenRobot/config.py ./FallenRobot/config.py* /root/FallenRobot/FallenRo
 ENV PATH="/home/bot/bin:$PATH"
 
 # Install requirements
-RUN bash pip3 install -U -r requirements.txt
+RUN -c pip3 install requirements.txt
 
 # Starting Worker
 CMD ["python3","-m","FallenRobot"]
