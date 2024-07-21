@@ -23,7 +23,7 @@ lxml==4.9.4
 markdown2==2.4.13
 motor==3.4.0
 opencv-python-headless==4.9.0.80
-pillow==10.2.0
+pillow
 pretty_errors==1.2.25
 psutil==5.9.8
 psycopg2-binary==2.9.9
@@ -31,7 +31,7 @@ pydictionary==2.0.1
 pykeyboard==0.1.5
 pynewtonmath==1.0.1
 pyrate-limiter==3.1.0
-pyrogram==2.0.106
+pyrogram
 python-telegram-bot==13.15
 regex==2024.5.15
 requests==2.32.0
@@ -39,7 +39,7 @@ secureme==0.0.4
 search_engine_parser==0.6.8
 speedtest-cli==2.1.3
 sqlalchemy==1.4.46
-telegraph==2.2.0
-telethon==1.35.0
-tgcrypto==1.2.5
+telegraph
+telethon
+tgcrypto
 wikipedia==1.4.0
