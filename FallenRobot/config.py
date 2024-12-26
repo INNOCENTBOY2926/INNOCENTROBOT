@@ -2,25 +2,25 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 17763538
-    API_HASH = "babad31b4b434fc53d8bd13370c556c3"
+    API_ID = 
+    API_HASH = ""
 
-    CASH_API_KEY = "9VTTT9B4QHV8DIDS"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = ""  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (-1002108743436)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = ()  # Event logs channel to note down important bot level events
 
-    MONGO_DB_URI = "mongodb+srv://nakuldkdhacker:nakuldkdhacker$100@cluster0.45znzoj.mongodb.net/"  # Get ths value from cloud.mongodb.com
+    MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://files.catbox.moe/jxk5hn.jpg"
 
     SUPPORT_CHAT = "THE_FUCKER_BOTS_2926"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "6894743901:AAFlsaTrSwxaFpYMVXeXpkbr3NR_Nimoepw"  # Get bot token from @BotFather on Telegram
+    TOKEN = ""  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = "A8RZUCKYOVRS"  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
     OWNER_ID = 6961211249  # User id of your telegram account (Must be integer)
 
